@@ -1,0 +1,50 @@
+[
+    {
+        "name": "News 1",
+        "text": "Pizza company makes heated letterbox to keep your delivery hot.",
+        "isReal": true,
+        "isFake": false,
+        "src": "Evidence: https://evoke.ie/2017/04/01/extra/dominos-heatwave-letterboxes"
+    },
+
+    {
+        "name": "News 2",
+        "text": "100 year-old fruit cake discovered near the South Pole - and it's almost edible.",
+        "isReal": true,
+        "isFake": false,
+        "src": "Evidence: https://www.nationalgeographic.com/adventure/article/antarctica-fruitcake-scott-terra-nova "
+    },
+
+    {
+        "name": "News 3",
+        "text": "Polar bears found on Scottish island.",
+        "isReal": true,
+        "isFake": false,
+        "src": "Evidence: https://www.wwf.org.uk/updates/polar-bear-sighted-scottish-island#:~:text=This%20polar%20bear%20has%20been,sea%20to%20the%20Outer%20Hebrides"
+    },
+
+    {
+        "name": "News 4",
+        "text": "Sharks found in New York basement.",
+        "isReal": true,
+        "isFake": false,
+        "src": "Evidence: https://www.newyorkupstate.com/catskills/2019/07/man-pleads-guilty-to-keeping-live-sharks-for-sale-in-basement-pool.html#:~:text=They%20found%20an%20above%2Dground,Smalltooth%20Sawfish%2C%20an%20endangered%20species"
+    },
+
+    {
+        "name": "News 5",
+        "text": "UK won't take part in the Eurovision song contest from 2019.",
+        "isReal": false,
+        "isFake": true,
+        "src": "Evidence: https://www.lbc.co.uk/hot-topics/brexit/eurovision-song-contest-2019-uk-take-part-brexit/"
+    },
+
+    {
+        "name": "News 6",
+        "text": "Blue dogs spotted in India.",
+        "isReal": true,
+        "isFake": false,
+        "src": "Evidence: https://www.newindianexpress.com/cities/mumbai/2018/oct/23/heres-why-stray-dogs-of-mumbai-are-turning-blue-1888919.html#:~:text=A%20manufacturing%20company%20in%20Navi,the%20blue%20dogs%20of%20Mumbai"
+    }
+
+]
