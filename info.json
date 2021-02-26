@@ -18,8 +18,8 @@
     {
         "name": "News 3",
         "text": "Polar bears found on Scottish island.",
-        "isReal": true,
-        "isFake": false,
+        "isReal": false,
+        "isFake": true,
         "src": "Evidence: https://www.wwf.org.uk/updates/polar-bear-sighted-scottish-island#:~:text=This%20polar%20bear%20has%20been,sea%20to%20the%20Outer%20Hebrides"
     },
 
